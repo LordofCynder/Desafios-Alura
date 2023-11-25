@@ -14,7 +14,7 @@ let cotacaoBitcoin = 182.414
 const valorBitcoinEmReal = (valorEmBitcoin * cotacaoBitcoin).toFixed(2);
 const valorEthereumEmReal = (valorEmEthereum * cotacaoEthereum).toFixed(2);
 
-alert('Olá ' + nomeUsuario + '! O valor da conversão em ethereum ' + valorEmEthereum + ' para real é: ' + valorEthereumEmReal + ' e o valor da conversão em bitcoin ' + valorEmBitcoin + ' para real é: ' + valorBitcoinEmReal);
+alert('Olá ' + nomeUsuario + '! O valor da conversão em ethereum $' + valorEmEthereum + ' para real é: R$' + valorEthereumEmReal + ' e o valor da conversão em bitcoin $' + valorEmBitcoin + ' para real é: R$' + valorBitcoinEmReal);
 
 
 
