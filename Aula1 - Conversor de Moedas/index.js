@@ -5,7 +5,7 @@ let valorEmReal = valorEmDolar * cotacaoDolar;
 valorEmReal = valorEmReal.toFixed(2);
 alert('A conversão do saldo em dólar para real é: R$ ' + valorEmReal); */
 
-let nomeUsuario = 'Shadow';
+let nomeUsuario = 'Igor Anjos';
 let valorEmEthereum = 80
 let valorEmBitcoin = 22;
 let cotacaoEthereum = 10.242
